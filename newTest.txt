@@ -1,2 +1,4 @@
 first string
+
 update string
+update string with commit

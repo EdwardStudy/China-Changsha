@@ -3,3 +3,5 @@ first string
 update string
 update string with commit
 update want rollback
+
+this string should not exist

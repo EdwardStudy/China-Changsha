@@ -7,3 +7,4 @@ update want rollback
 this string should not exist
 update error string
 create new branch
+merger branch
